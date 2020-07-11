@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "raduga", "raduga.vcxproj", "{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Debug|x64.ActiveCfg = Debug|x64
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Debug|x64.Build.0 = Debug|x64
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Debug|x86.ActiveCfg = Debug|Win32
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Debug|x86.Build.0 = Debug|Win32
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Release|x64.ActiveCfg = Release|x64
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Release|x64.Build.0 = Release|x64
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Release|x86.ActiveCfg = Release|Win32
+		{BD4610E9-DA5E-43B8-9CDF-5A47565C5548}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BC28C0CE-58C6-440F-8766-C1C3529F9A78}
+	EndGlobalSection
+EndGlobal

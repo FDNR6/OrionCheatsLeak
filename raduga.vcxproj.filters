@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="source">
+      <UniqueIdentifier>{ac7f4a3b-b442-4a71-9715-737f48112e8e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\utils">
+      <UniqueIdentifier>{06492c2c-1120-4398-964c-26d5e9eb13e4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\sdk">
+      <UniqueIdentifier>{4d5cc7f8-cfe6-4df8-9f39-1920a858313d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\gui">
+      <UniqueIdentifier>{352bed11-a6bb-4143-be34-9eb21de42486}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="source\gui\render">
+      <UniqueIdentifier>{6bf8c1bb-b585-4a52-8111-a33e4fb595ca}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="global.h">
+      <Filter>source</Filter>
+    </ClInclude>
+    <ClInclude Include="utils.h">
+      <Filter>source\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="encypt.h">
+      <Filter>source\utils</Filter>
+    </ClInclude>
+    <ClInclude Include="sdk.h">
+      <Filter>source\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="math.h">
+      <Filter>source\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="gui.h">
+      <Filter>source\gui</Filter>
+    </ClInclude>
+    <ClInclude Include="render.h">
+      <Filter>source\gui\render</Filter>
+    </ClInclude>
+    <ClInclude Include="data.h">
+      <Filter>source\gui\render</Filter>
+    </ClInclude>
+    <ClInclude Include="config.h">
+      <Filter>source\sdk</Filter>
+    </ClInclude>
+    <ClInclude Include="offsets.h">
+      <Filter>source\sdk</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
